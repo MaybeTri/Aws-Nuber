@@ -30,7 +30,7 @@ const Login = ()=>{
 
                 history.push('/driverhome');
             } else{
-                history.push('/home');
+                history.push('/driverhome');
             }
 
             
